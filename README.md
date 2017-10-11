@@ -14,7 +14,7 @@ Faça um fork deste repositório e nos envie o link com sua implementação.
 
 Você será responsável por implementar a página abaixo (você pode baixar o PSD através deste [link](https://drive.google.com/file/d/0B6UrrFcFJAjXRHdNZUJTYnJsd2s/view?usp=sharing))
 
-![Layout da página](https://lh5.googleusercontent.com/XLr4dXrm4t-0YU8b92N_mqSnp7AjGn2f2JY0cdNHPuWvXu0thnE1_rfOgqkRK62chMvhqvBsPyIc2fk=w1920-h983-rw)
+![Layout da página](https://imgur.com/9tcPGHS)
 
 Você deve executar os seguintes pontos:
 
