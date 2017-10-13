@@ -35,19 +35,17 @@ Troque **<github_username>** pelo seu login no github
 Envie os dados no seguinte formato JSON:
 ```javascript
 {
+	"frequency": "Mensal",
+	"value": "30.00",
 	"first_name": "João",
 	"last_name": "da Silva",
 	"complete_name": "João da Silva",
-	"phone": "4123456789",
-	"cellphone": "41987654321",
-	"gender": "male",
-	"birthdate": "1990-01-01",
+	"email": "joao@silva.com.br",
 	"document": "12345678909",
 	"card_number": "4111111111111111",
 	"cvv": "123",
 	"validity": "01/2020",
-	"accept_contact": true,
-	"accept_readjustment": false
+	"accept_contact": true
 }
 ```
 
