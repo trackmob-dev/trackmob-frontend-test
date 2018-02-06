@@ -19,9 +19,9 @@
 - [ ] deve ser open source e estar no github para análise
 
 # Extras
-- [ ] também faça em React Native
-- [ ] deve usar ReactNavigation
-- [ ] implemente `code splitting` usando `react-loadable`
+- [ ] realize esse este utilizando o React Native
+- [ ] deve-se usar o ReactNavigation
+- [ ] implemente `Code Splitting` usando `React-Loadable`
 - [ ] Optimize webpack
 - [ ] Crie um [storybook] com seus componentes
 - [ ] Teste seus componentes com [jest]
