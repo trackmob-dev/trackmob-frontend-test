@@ -15,7 +15,7 @@
 # Frontend Challenge
 
 - [ ] Crie uma Lista com Detalhes dos itens dessa lista para uma model (e.g: todos, posts, products)
-- [ ] deve-se usar React
+- [ ] deve-se usar React (se usar CRA ou outro boilerplate, faça um commit separado com os arquivos do boilerplate)
 - [ ] deve ser open source e estar no github para análise
 
 # Extras
