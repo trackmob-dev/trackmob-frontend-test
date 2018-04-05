@@ -33,7 +33,12 @@
 
 
 Critérios de avaliação:
+```
 Vamos analisar seu Repositorio no GIT, os commits(comentarios e mudanças), organização do código, padrões e qualidade.
+```
+
+Mockup de referência(seja criativo...):
+![Mockup Photo](https://preview.ibb.co/hgFVex/mockup.png 'Trackmob Frontend Test')
 
 Boa sorte :)
 
