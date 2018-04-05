@@ -14,7 +14,7 @@
 
 # Frontend Challenge
 
-- [ ] Crie uma Lista com Detalhes dos itens dessa lista para uma model (e.g: todos, posts, products)
+- [ ] Crie uma aplicação onde, o usuário tem uma lista de produtos, uma tela para cadastrar novos produtos e a possibilidade de editar/excluir esses produtos
 - [ ] deve-se usar React (se usar CRA ou outro boilerplate, faça um commit separado com os arquivos do boilerplate)
 - [ ] deve ser open source e estar no github para análise
 
@@ -29,3 +29,11 @@
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
+
+
+
+Critérios de avaliação:
+Vamos analisar seu Repositorio no GIT, os commits(comentarios e mudanças), organização do código, padrões e qualidade.
+
+Boa sorte :)
+
